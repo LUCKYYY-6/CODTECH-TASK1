@@ -1,4 +1,3 @@
-/*weather monitoring station*/
 
 #include <ESP8266WiFi.h>
 #include <ESPAsyncWebServer.h>
